@@ -3,7 +3,7 @@
 ---
 
 ### 👨‍💻 About Me
-📚 I am a **Computer Engineering student** at the **University of Pisa**. 
+📚 I am a Bachelor’s student in **Computer Engineering** at the **University of Pisa**. 
 
 📊 I am a **data**-driven enthusiast dedicated to leveraging data analysis to improve and optimize modern-day reality.
 
@@ -55,5 +55,5 @@
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/tommaso-di-pede-9777a03b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/tommasodipede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 
